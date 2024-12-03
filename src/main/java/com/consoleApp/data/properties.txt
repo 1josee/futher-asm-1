@@ -1,0 +1,20 @@
+C-101,123 Main St,500000,Available,Retail,10,2000.5
+C-102,456 Market Ave,1200000,Rented,Office,20,5000.0
+C-103,789 Business Blvd,750000,Under Maintenance,Restaurant,15,3000.2
+C-104,101 Industrial Way,850000,Available,Warehouse,25,7000.0
+C-105,202 Commerce St,600000,Available,Gym,12,2500.5
+C-106,303 Enterprise Rd,950000,Rented,Medical,18,4000.0
+C-107,404 Business Park,700000,Under Maintenance,Hotel,30,8000.0
+C-108,505 Corporate Lane,1100000,Available,Factory,35,10000.0
+C-109,606 Industrial Blvd,650000,Rented,Showroom,8,1500.3
+C-110,707 Technology Dr,900000,Under Maintenance,Data Center,40,12000.0
+R-201,10 Maple St,300000,Available,3,true,true
+R-202,20 Oak Ave,450000,Rented,4,false,true
+R-203,30 Pine Blvd,350000,Under Maintenance,2,true,false
+R-204,40 Cedar Ct,400000,Available,3,false,false
+R-205,50 Elm Way,500000,Available,5,true,true
+R-206,60 Birch Ln,320000,Rented,2,true,true
+R-207,70 Willow Rd,370000,Under Maintenance,3,false,true
+R-208,80 Ash Dr,430000,Available,4,true,false
+R-209,90 Poplar St,390000,Rented,3,false,true
+R-210,100 Spruce Pl,470000,Under Maintenance,5,true,false
